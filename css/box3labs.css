@@ -101,8 +101,10 @@ label {
 
 #company-description {
   font-size: 1em;
-  width: 600px;
+  max-width: 600px;
   font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #company-description2 {
